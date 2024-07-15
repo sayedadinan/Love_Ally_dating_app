@@ -5,7 +5,7 @@ class AppImages {
 }
 
 class CustomFonts{
-static const String splashMainText = "assets/fonts/KaushanScript-Regular.ttf";
-static const String splashSubText = "assets/fonts/Mali-Regular.ttf";
-static const String primaryText = "assets/fonts/MPLUS1-Regular.ttf";
+static const String splashMainText = "KaushanScript";
+static const String splashSubText = "Mali";
+static const String primaryText = "MPLUS1";
 }
