@@ -64,6 +64,7 @@ flutter:
     - assets/images/splash_blur_image.jpg
     - assets/images/splash_image.jpg
 
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
@@ -81,7 +82,7 @@ flutter:
         - asset: assets/fonts/KaushanScript-Regular.ttf
      
     - family: Mali
-      fonts:
+      fonts:   
         - asset: assets/fonts/Mali-Regular.ttf
 
     - family: MPLUS1
