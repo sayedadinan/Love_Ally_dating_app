@@ -15,7 +15,7 @@ class Inputfield extends StatelessWidget {
     required this.hinttext,
     this.keyboardType,
     this.validator,
-    this.icon, // Use the constructor parameter directly
+    this.icon,
   });
 
   @override

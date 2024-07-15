@@ -6,5 +6,4 @@ class AppColors {
   static const Color whiteColor = Colors.white;
   static const Color fieldColor = Color.fromARGB(54, 62, 5, 61);
   static const Color buttonColor = Color.fromRGBO(87, 28, 92, 1.0);
-  // static const Color te
 }
